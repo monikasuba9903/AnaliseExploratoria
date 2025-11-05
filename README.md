@@ -27,6 +27,7 @@ $$\bar{x} = \frac{1}{n} \sum_{i=1}^{n}{x_{i}}$$
 * Variância
 É a medida que indica o grau de dispersão dos valores de um conjunto de dados em relação à sua média.
 Abaixo segue a fórmula da variância amostral:
+
 $$s^{2} = \frac{1}{n-1} \sum_{i=1}^{n}{(x_{i} - \bar{x})^{2}}$$
 
 * Desvio Padrão 
